@@ -35,7 +35,7 @@ class HomeScreen extends StatelessWidget {
               _buildProperties(),
               const SizedBox(height: 20),
               Text(
-                'Nearby Places',
+                'Nearby Place',
                 style: GoogleFonts.abel().copyWith(
                   fontWeight: FontWeight.bold,
                   fontSize: 30,
